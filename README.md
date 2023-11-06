@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashashavi328
-- 👀 I’m interested in Competitive Coding & Development
-- 🌱 I’m currently learning JAVA & C++
+- 👀 I’m interested in Competitive Coding & Software Engineering
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me - yashashavi328@gmail.com
 
 <!---
