@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yashashavi328
-- - 🌱 I’m currently working as a Software Engineer
+- 🌱 I’m currently working as a Software Engineer
 - 👀 I’m interested in Competitive Coding & App development
 - 📫 How to reach me - yashashavi328@gmail.com
 
